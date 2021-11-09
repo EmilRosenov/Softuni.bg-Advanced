@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\01.basicStackOperations.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\01.basicStackOperations.genruntimeconfig.cache
