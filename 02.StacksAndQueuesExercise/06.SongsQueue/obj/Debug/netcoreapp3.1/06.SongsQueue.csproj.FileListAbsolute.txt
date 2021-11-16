@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.genruntimeconfig.cache
