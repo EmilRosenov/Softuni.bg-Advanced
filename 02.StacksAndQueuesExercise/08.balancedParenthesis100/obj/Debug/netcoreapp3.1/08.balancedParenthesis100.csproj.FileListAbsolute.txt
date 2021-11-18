@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\bin\Debug\netcoreapp3.1\08.balancedParenthesis100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\02.StackAndQueuesExercise\StacksAndQueuesExercise\08.balancedParenthesis100\obj\Debug\netcoreapp3.1\08.balancedParenthesis100.genruntimeconfig.cache
