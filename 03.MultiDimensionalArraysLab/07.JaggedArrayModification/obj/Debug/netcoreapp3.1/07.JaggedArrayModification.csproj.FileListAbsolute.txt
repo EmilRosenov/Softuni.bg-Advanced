@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\bin\Debug\netcoreapp3.1\07.JaggedArrayModification.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\07.JaggedArrayModification\obj\Debug\netcoreapp3.1\07.JaggedArrayModification.genruntimeconfig.cache
