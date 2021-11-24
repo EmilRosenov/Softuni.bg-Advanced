@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.genruntimeconfig.cache
