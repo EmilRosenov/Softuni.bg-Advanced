@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\bin\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\04.SecondaryDiagonalSum\obj\Debug\netcoreapp3.1\04.SecondaryDiagonalSum.genruntimeconfig.cache
