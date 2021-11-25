@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\bin\Debug\netcoreapp3.1\08.PascalTriangle.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\08.PascalTriangle\obj\Debug\netcoreapp3.1\08.PascalTriangle.genruntimeconfig.cache
