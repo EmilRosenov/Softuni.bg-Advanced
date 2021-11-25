@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\bin\Debug\netcoreapp3.1\09.SpiralMatrix.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Advanced\03.MultiDimensionalArraysLab\ConsoleApp1\09.SpiralMatrix\obj\Debug\netcoreapp3.1\09.SpiralMatrix.genruntimeconfig.cache
