@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\bin\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\MultIDimensionalArraysEx\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csprojAssemblyReference.cache
