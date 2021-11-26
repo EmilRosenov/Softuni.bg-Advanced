@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\bin\Debug\netcoreapp3.1\08.Bombs100100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\04.MultiDimensionalArraysExercise\MultIDimensionalArraysEx\08.Bombs100100\obj\Debug\netcoreapp3.1\08.Bombs100100.genruntimeconfig.cache
