@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.genruntimeconfig.cache
