@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\04.CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\04.CitiesByContinentsAndCountries.genruntimeconfig.cache
