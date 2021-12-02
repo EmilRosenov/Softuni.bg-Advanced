@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\05.SetsAndDictionariesLab\05.SetsAndDictionariesLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.genruntimeconfig.cache
