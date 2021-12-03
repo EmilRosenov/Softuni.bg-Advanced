@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\bin\Debug\netcoreapp3.1\02.StreamReader.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\02.StreamReader\obj\Debug\netcoreapp3.1\02.StreamReader.genruntimeconfig.cache
