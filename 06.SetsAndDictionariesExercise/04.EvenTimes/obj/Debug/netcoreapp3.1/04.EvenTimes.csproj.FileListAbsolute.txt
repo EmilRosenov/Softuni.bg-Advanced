@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache
