@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\01.StreamWrite.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\07.StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\01.StreamWrite.genruntimeconfig.cache
