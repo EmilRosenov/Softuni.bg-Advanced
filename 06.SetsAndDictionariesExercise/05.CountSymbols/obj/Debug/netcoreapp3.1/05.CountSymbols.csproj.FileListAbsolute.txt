@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\06.SetsAndDictionariesExercise\06.SetsAndDictionariesExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.genruntimeconfig.cache
