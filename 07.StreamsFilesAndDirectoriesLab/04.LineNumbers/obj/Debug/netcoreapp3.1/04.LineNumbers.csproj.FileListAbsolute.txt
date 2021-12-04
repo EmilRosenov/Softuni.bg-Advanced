@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\04.LineNumbers.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\obj\Debug\netcoreapp3.1\04.LineNumbers.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\04.LineNumbers\bin\Debug\netcoreapp3.1\Output.txt
