@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\bin\Debug\netcoreapp3.1\09.CalculateFolderSize.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\09.CalculateFolderSize\obj\Debug\netcoreapp3.1\09.CalculateFolderSize.genruntimeconfig.cache
