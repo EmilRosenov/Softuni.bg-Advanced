@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\bin\Debug\netcoreapp3.1\08.DirectoryDemo.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\07.StreamsFilesAndDirectoriesLab\07.StreamsFilesAndDirectories\08.DirectoryDemo\obj\Debug\netcoreapp3.1\08.DirectoryDemo.csprojAssemblyReference.cache
