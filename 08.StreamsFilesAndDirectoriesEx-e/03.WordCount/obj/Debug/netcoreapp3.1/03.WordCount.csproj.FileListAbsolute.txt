@@ -1,0 +1,14 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.genruntimeconfig.cache
