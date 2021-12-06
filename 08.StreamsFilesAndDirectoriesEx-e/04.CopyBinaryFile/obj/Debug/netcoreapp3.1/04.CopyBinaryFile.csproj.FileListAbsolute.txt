@@ -1,0 +1,14 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\04.CopyBinaryFile.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\08.StreamsFiesDirsExercise\08.StreamsFilesDirsExercise\04.CopyBinaryFile\bin\Debug\netcoreapp3.1\copyMe.png
