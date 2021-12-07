@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\bin\Debug\netcoreapp3.1\FunctionalProgramming1.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\FunctionalProgramming1\obj\Debug\netcoreapp3.1\FunctionalProgramming1.genruntimeconfig.cache
