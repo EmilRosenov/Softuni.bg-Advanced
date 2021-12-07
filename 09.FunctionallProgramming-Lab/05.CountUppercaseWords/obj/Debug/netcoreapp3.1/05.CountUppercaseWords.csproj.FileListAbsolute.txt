@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\bin\Debug\netcoreapp3.1\05.CountUppercaseWords.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\05.CountUppercaseWords\obj\Debug\netcoreapp3.1\05.CountUppercaseWords.genruntimeconfig.cache
