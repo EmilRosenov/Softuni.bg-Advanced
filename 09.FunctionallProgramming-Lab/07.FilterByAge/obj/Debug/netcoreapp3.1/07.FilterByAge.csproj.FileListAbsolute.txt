@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\bin\Debug\netcoreapp3.1\07.FilterByAge.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\07.FilterByAge\obj\Debug\netcoreapp3.1\07.FilterByAge.csprojAssemblyReference.cache
