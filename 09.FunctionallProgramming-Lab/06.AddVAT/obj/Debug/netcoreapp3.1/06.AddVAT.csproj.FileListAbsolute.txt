@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\bin\Debug\netcoreapp3.1\06.AddVAT.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\09.FunctionallProgrammingLab\NikiKostovSept21\06.AddVAT\obj\Debug\netcoreapp3.1\06.AddVAT.genruntimeconfig.cache
