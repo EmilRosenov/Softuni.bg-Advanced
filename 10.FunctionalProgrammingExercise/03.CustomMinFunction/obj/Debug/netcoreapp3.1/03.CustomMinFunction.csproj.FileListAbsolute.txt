@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.genruntimeconfig.cache
