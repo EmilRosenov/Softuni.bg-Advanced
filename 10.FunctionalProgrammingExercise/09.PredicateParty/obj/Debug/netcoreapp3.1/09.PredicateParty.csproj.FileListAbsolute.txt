@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\bin\Debug\netcoreapp3.1\09.PredicateParty.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\09.PredicateParty\obj\Debug\netcoreapp3.1\09.PredicateParty.genruntimeconfig.cache
