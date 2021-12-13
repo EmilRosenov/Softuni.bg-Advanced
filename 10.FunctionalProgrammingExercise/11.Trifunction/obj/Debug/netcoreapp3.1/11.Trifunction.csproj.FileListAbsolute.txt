@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\bin\Debug\netcoreapp3.1\11.Trifunction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\10.FunctionalProgrammingExercise\StanShopovSept21\ExerciseFunctionalProgramming\11.Trifunction\obj\Debug\netcoreapp3.1\11.Trifunction.genruntimeconfig.cache
