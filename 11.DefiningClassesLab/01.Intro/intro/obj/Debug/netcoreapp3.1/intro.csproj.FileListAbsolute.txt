@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\bin\Debug\netcoreapp3.1\intro.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\intro\obj\Debug\netcoreapp3.1\intro.genruntimeconfig.cache
