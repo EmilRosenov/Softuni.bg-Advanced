@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\bin\Debug\netcoreapp3.1\01.Car.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\01.Car\obj\Debug\netcoreapp3.1\01.Car.genruntimeconfig.cache
