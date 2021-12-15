@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\bin\Debug\netcoreapp3.1\02.CarExtensions.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\11.DefiningClassesLab\NikiKostovSept21\intro\02.CarExtensions\obj\Debug\netcoreapp3.1\02.CarExtensions.genruntimeconfig.cache
