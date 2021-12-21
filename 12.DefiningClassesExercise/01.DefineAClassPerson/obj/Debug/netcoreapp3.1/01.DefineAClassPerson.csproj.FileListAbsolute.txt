@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\ExerciseDefiningClasses\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.genruntimeconfig.cache
