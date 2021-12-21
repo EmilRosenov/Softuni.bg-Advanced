@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\02.CreatingConstructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.genruntimeconfig.cache
