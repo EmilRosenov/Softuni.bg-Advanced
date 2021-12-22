@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache
