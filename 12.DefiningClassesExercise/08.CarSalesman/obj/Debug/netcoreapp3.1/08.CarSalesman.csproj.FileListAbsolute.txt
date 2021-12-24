@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache
