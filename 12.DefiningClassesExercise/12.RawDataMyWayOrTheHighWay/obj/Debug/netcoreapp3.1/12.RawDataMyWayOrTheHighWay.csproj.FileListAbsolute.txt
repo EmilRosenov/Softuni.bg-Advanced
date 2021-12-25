@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\bin\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\12.DefiningClassesExercise\StoyanShopovSept21\ExerciseDefiningClasses\12.RawDataMyWayOrTheHighWay\obj\Debug\netcoreapp3.1\12.RawDataMyWayOrTheHighWay.genruntimeconfig.cache
