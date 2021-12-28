@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\13.ImplementingLinkedList\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache
