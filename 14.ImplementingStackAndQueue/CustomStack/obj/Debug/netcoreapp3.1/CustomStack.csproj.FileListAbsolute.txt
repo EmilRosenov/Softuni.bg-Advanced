@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\14.ImplementingStackAndQueue\ImplementingStacksAndQueues\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache
