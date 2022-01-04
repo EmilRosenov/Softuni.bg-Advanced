@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.genruntimeconfig.cache
