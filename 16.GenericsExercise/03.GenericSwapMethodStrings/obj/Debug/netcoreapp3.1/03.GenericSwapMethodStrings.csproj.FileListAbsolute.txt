@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.genruntimeconfig.cache
