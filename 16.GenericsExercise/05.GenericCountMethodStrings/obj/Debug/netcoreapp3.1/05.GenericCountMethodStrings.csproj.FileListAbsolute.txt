@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\bin\Debug\netcoreapp3.1\05.GenericCountMethodStrings.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\16.GenericsExercise\GenericsExercise\05.GenericCountMethodStrings\obj\Debug\netcoreapp3.1\05.GenericCountMethodStrings.genruntimeconfig.cache
