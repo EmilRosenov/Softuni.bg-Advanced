@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\bin\Debug\netcoreapp3.1\01.Library.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\17.IteratorsAndComparators\IteratorsAndComparators\01.Library\obj\Debug\netcoreapp3.1\01.Library.genruntimeconfig.cache
