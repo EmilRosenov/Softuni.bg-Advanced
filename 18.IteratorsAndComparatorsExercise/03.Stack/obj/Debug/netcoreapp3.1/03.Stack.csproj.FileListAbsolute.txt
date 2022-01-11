@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache
