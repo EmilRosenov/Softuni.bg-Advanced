@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.genruntimeconfig.cache
