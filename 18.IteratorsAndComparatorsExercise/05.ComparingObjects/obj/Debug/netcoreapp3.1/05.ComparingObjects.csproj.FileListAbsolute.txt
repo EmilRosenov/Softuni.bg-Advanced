@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\18.IteratorsAndComparatorsExercise\01.ListyIterator\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache
