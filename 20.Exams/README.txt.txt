@@ -1,0 +1,1 @@
+Here are some trial tests + One(official)exam from the c# advanced in softuni path.
