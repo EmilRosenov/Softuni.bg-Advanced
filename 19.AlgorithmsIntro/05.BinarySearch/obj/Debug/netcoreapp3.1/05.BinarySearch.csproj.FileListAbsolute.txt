@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\bin\Debug\netcoreapp3.1\05.BinarySearch.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\19.AlgorithmsIntro\BasicAlgorithms\05.BinarySearch\obj\Debug\netcoreapp3.1\05.BinarySearch.genruntimeconfig.cache
