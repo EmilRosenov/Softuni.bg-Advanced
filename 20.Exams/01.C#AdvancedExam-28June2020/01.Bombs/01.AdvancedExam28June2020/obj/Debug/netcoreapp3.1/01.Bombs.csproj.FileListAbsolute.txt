@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\bin\Debug\netcoreapp3.1\01.Bombs.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\01.AdvancedExam28June2020\obj\Debug\netcoreapp3.1\01.Bombs.genruntimeconfig.cache

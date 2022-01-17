@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache
