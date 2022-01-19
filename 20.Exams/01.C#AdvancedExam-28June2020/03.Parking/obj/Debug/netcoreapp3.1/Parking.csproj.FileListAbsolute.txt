@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\01.C#AdvancedExam-28June2020\01.Bombs\03.Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache
