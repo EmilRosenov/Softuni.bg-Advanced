@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\bin\Debug\netcoreapp3.1\02.BattleOfFiveArmies.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\02.TheBattleOfThe5Armies\02.PrepExam\02.BattleOfFiveArmies\obj\Debug\netcoreapp3.1\02.BattleOfFiveArmies.genruntimeconfig.cache
