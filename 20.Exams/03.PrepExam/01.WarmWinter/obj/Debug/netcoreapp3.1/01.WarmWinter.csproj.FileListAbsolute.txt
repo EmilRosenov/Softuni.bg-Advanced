@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\bin\Debug\netcoreapp3.1\01.WarmWinter.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\03.PrepExam\03.PrepExam\03.PrepExam\obj\Debug\netcoreapp3.1\01.WarmWinter.genruntimeconfig.cache
