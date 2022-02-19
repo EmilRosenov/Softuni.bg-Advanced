@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.exe
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\bin\Debug\netcoreapp3.1\01.MasterChef.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.dll
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\Advanced\20.Exams\02.PrepExam180821x260621x1\02.PrepExam\01.MasterChef\obj\Debug\netcoreapp3.1\01.MasterChef.genruntimeconfig.cache
