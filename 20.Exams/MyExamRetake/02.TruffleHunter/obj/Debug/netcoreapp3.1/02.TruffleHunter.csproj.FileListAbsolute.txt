@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.exe
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.deps.json
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.dll
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\bin\Debug\netcoreapp3.1\02.TruffleHunter.pdb
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.dll
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.pdb
+C:\Users\Sony Vaio\Desktop\MineRetake\MineRetakeAdvanced\02.TruffleHunter\obj\Debug\netcoreapp3.1\02.TruffleHunter.genruntimeconfig.cache
