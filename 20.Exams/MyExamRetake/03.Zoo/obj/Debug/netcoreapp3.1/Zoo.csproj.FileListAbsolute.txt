@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\Sony Vaio\Desktop\MineRetake\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
